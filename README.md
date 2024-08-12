@@ -8,8 +8,8 @@
 I chose the Paris 2024 Olympic dataset because I love sports and have always been fascinated by the Olympics. This dataset lets me explore different aspects of the Games, like event schedules, athlete participation, and medal counts, allowing me to better understand and enjoy the Olympics.
 
 ## Progress
-- [X ] Picked dataset
-- [X ] Defined 10 questions
+- [X] Picked dataset
+- [X] Defined 10 questions
 - [ ] Answered 10 questions using Pandas
 - [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
 - [ ] Prepared presentation slides to present at graduation
