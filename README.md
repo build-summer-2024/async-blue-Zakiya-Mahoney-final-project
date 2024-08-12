@@ -1,7 +1,7 @@
 # async-blue-Zakiya-Mahoney-final-project
 
 ## Dataset
-[Paris 2024 Olympic Summer Games]((https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games?select=medallists.csv))
+[Paris 2024 Olympic Summer Games](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games?select=medallists.csv)
 
 ## Why did I chose this dataset?
 
