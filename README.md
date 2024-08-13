@@ -5,7 +5,7 @@
 
 ## Why did I chose this dataset?
 
-I chose the Paris 2024 Olympic dataset because I love sports and have always been fascinated by how the Olympics showcase the world’s top athletes. This dataset lets me explore explore not only how individual athletes performed but also how different countries fared and what made the Games unique. It’s a chance to dive into the stories behind the results and see the dynamics that make the Olympics such a exciting event.
+I chose the Paris 2024 Olympic dataset because I love sports and have always been fascinated by how the Olympics showcase the world’s top athletes. This dataset lets me explore not only how individual athletes performed but also how different countries performed and what made the Games unique. It’s a chance to dive into the stories behind the results and see the dynamics that make the Olympics such a exciting event.
 
 ## Progress
 - [X] Picked dataset
