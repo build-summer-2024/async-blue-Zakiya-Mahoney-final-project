@@ -1,11 +1,11 @@
 # async-blue-Zakiya-Mahoney-final-project
 
 ## Dataset
-[Paris 2024 Olympic Summer Games](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games?select=medallists.csv)
+[Student Mental Health Survey](https://www.kaggle.com/datasets/abdullahashfaqvirk/student-mental-health-survey?resource=download)
 
 ## Why did I chose this dataset?
 
-I chose the Paris 2024 Olympic dataset because I love sports and have always been fascinated by how the Olympics showcase the world’s top athletes. This dataset lets me explore not only how individual athletes performed but also how different countries performed and what made the Games unique. It’s a chance to dive into the stories behind the results and see the dynamics that make the Olympics such an exciting event.
+I chose this dataset because, as a former student-athlete, I have firsthand experience with the challenges of balancing academic responsibilities, physical health, and mental well-being. During my time as an athlete, I struggled with an injury that made it difficult to keep up with schoolwork, maintain a proper sleep schedule, and commit to rehabilitation due to time constraints. This experience made me realize how critical mental health is. When your mind is not in a good place, it can negatively impact your body and overall well-being. I want to explore how various factors such as academic pressure, social relationships, and physical activity, influence mental health in students and how these insights can help create a more supportive environment for those facing similar challenges.
 
 ## Progress
 - [X] Picked dataset
@@ -15,42 +15,42 @@ I chose the Paris 2024 Olympic dataset because I love sports and have always bee
 - [ ] Prepared presentation slides to present at graduation
 
 ## Questions
-- [ ] Question 1: How does the distribution of medals across countries compare to previous Olympic Games, and what factors contribute to any observed shifts?
+- [ ] Question 1: How does involvement in sports correlate with levels of depression and anxiety among students?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
 
-- [ ] Question 2: Which sports have the highest participation rates among different countries, and how does this correlate with their medal success?
+- [ ] Question 2: Does participation in sports activities affect students' academic workload and study satisfaction?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
-- [ ] Question 3: What are the trends in athlete demographics (age, gender, nationality) across different sports, and how do these trends impact performance outcomes?
+- [ ] Question 3: Is there a relationship between average sleep duration and perceived academic pressure?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
 
-- [ ] Question 4: How do the schedules of events influence the performance of athletes in multi-event sports?
+- [ ] Question 4:  How does participation in sports relate to academic performance (CGPA)?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
 
-- [ ] Question 5: What is the relationship between the geographical location of venues and the performance of athletes, particularly in outdoor sports?
+- [ ] Question 5: Do students with higher levels of depression and anxiety report greater feelings of future insecurity?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
 
-- [ ] Question 6: How does the success of teams (in team sports) compare to that of individual athletes from the same country?
+- [ ] Question 6: How do time constraints, such as those faced by student-athletes, affect study satisfaction and academic workload?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
 
-- [ ] Question 7: What patterns can be observed in the qualification criteria for different events, and how do these impact the diversity of participants?
+- [ ] Question 7: How do financial concerns impact the mental health of students, particularly in terms of anxiety and depression?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
 
-- [ ] Question 8: How do the heights and weights of athletes vary across different sports, and what impact do these physical attributes have on their success?
+- [ ] Question 8: Is there a difference in average sleep duration between on-campus and off-campus students?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
 
-- [ ] Question 9: Which countries have seen the most significant improvement or decline in their medal counts compared to previous Olympics, and what might explain these changes?
+- [ ] Question 9: How do social relationships correlate with feelings of isolation among students?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
 
-- [ ] Question 10: How does the time of day when events are held affect the performance outcomes of athletes?
+- [ ] Question 10: Which stress relief activities are most effective in reducing depression and anxiety among students?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
