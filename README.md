@@ -23,11 +23,11 @@ I chose this dataset because, as a former student-athlete, I have firsthand expe
   - Answer: [Placeholder for answer]
   - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
 
-- [ ] Question 3: Is there a relationship between average sleep duration and perceived academic pressure?
+- [ ] Question 3: How does involvement in extracurricular activities, like sports, affect students' engagement and participation in academic classes?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
 
-- [ ] Question 4:  How does participation in sports relate to academic performance (CGPA)?
+- [ ] Question 4:  What is the relationship between participation in sports and perceived stress levels among students?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
 
@@ -43,7 +43,7 @@ I chose this dataset because, as a former student-athlete, I have firsthand expe
   - Answer: [Placeholder for answer]
   - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
 
-- [ ] Question 8: Is there a difference in average sleep duration between on-campus and off-campus students?
+- [ ] Question 8: How does living on-campus versus off-campus impact students' access to academic resources and support services?
   - Answer: [Placeholder for answer]
   - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
 
