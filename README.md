@@ -137,5 +137,16 @@ isolation                        -0.558803   1.000000
   - Visualization: ![Q9 Visualization](Q9)
 
 - [ ] Question 10: Which stress relief activities are most effective in reducing depression and anxiety among students?
-  - Answer: [Placeholder for answer]
-  - Visualization: ![Q10 Visualization](https://example.com/path-to-image-10.png)
+  - Answer:
+     
+age  | anxiety | depression | isolation
+
+age         1.000000  0.088800    0.089504  -0.029515
+
+anxiety     0.088800  1.000000    0.844141   0.671894
+
+depression  0.089504  0.844141    1.000000   0.710185
+
+isolation  -0.029515  0.671894    0.710185   1.000000
+
+  - Visualization: ![Q10 Visualization](Q10)
