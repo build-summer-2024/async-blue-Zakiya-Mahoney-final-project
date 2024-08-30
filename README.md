@@ -17,7 +17,7 @@ I chose this dataset because, as a former student-athlete, I have firsthand expe
 ## Questions
 - [ ] Question 1: How does involvement in sports correlate with levels of depression and anxiety among students?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q1 Visualization](https://example.com/path-to-image-1.png)
+  - Visualization: ![Q1 Visualization](Q1)
 
 - [ ] Question 2: Does participation in sports activities affect students' academic workload and study satisfaction?
   - Answer: [Placeholder for answer]
