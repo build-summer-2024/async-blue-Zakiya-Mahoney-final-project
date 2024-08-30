@@ -21,35 +21,35 @@ I chose this dataset because, as a former student-athlete, I have firsthand expe
 
 - [ ] Question 2: Does participation in sports activities affect students' academic workload and study satisfaction?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q2 Visualization](https://example.com/path-to-image-2.png)
+  - Visualization: ![Q2 Visualization](Q2)
 
 - [ ] Question 3: How does involvement in extracurricular activities, like sports, affect students' engagement and participation in academic classes?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q3 Visualization](https://example.com/path-to-image-3.png)
+  - Visualization: ![Q3 Visualization](Q3)
 
 - [ ] Question 4:  What is the relationship between participation in sports and perceived stress levels among students?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q4 Visualization](https://example.com/path-to-image-4.png)
+  - Visualization: ![Q4 Visualization](Q4)
 
 - [ ] Question 5: Do students with higher levels of depression and anxiety report greater feelings of future insecurity?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q5 Visualization](https://example.com/path-to-image-5.png)
+  - Visualization: ![Q5 Visualization](Q5)
 
 - [ ] Question 6: How do time constraints, such as those faced by student-athletes, affect study satisfaction and academic workload?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q6 Visualization](https://example.com/path-to-image-6.png)
+  - Visualization: ![Q6 Visualization](Q6)
 
 - [ ] Question 7: How do financial concerns impact the mental health of students, particularly in terms of anxiety and depression?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q7 Visualization](https://example.com/path-to-image-7.png)
+  - Visualization: ![Q7 Visualization](Q7)
 
 - [ ] Question 8: How does living on-campus versus off-campus impact students' access to academic resources and support services?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q8 Visualization](https://example.com/path-to-image-8.png)
+  - Visualization: ![Q8 Visualization](Q8)
 
 - [ ] Question 9: How do social relationships correlate with feelings of isolation among students?
   - Answer: [Placeholder for answer]
-  - Visualization: ![Q9 Visualization](https://example.com/path-to-image-9.png)
+  - Visualization: ![Q9 Visualization](Q9)
 
 - [ ] Question 10: Which stress relief activities are most effective in reducing depression and anxiety among students?
   - Answer: [Placeholder for answer]
