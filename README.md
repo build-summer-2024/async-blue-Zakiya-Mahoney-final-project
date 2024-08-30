@@ -10,9 +10,9 @@ I chose this dataset because, as a former student-athlete, I have firsthand expe
 ## Progress
 - [X] Picked dataset
 - [X] Defined 10 questions
-- [ ] Answered 10 questions using Pandas
-- [ ] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
-- [ ] Prepared presentation slides to present at graduation
+- [x] Answered 10 questions using Pandas
+- [X] Added at least one data visualization (using Matplotlib and/or Seaborn) to each single question
+- [X] Prepared presentation slides to present at graduation
 
 ## Questions
 - [ ] Question 1: How does involvement in sports correlate with levels of depression and anxiety among students?
